@@ -1,4 +1,5 @@
 #!/bin/bosg
 echo "Best" 
 #!/bin/bash
-echo "Best" 
+echo "Best"
+echo "Best School"
